@@ -1,1 +1,2 @@
-# Menu
+# Menu de un Restaurante
+Utilizando diccionarios.
